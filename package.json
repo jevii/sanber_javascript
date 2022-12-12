@@ -1,0 +1,22 @@
+{
+  "name": "sanber_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jevii/sanber_javascript.git"
+  },
+  "author": "jevi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jevii/sanber_javascript/issues"
+  },
+  "homepage": "https://github.com/jevii/sanber_javascript#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
